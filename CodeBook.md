@@ -1,6 +1,6 @@
 # 
 
-This code book summarizes the variables in `averages_data.txt`.
+This code book summarizes the variables in `tidy_data.txt`.
 
 ## Identifiers
 
