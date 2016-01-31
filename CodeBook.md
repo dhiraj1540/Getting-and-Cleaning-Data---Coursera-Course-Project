@@ -1,11 +1,11 @@
 # 
 
-This code book summarizes the resulting fields in `tidy.txt`.
+This code book summarizes the variables in `averages_data.txt`.
 
 ## Identifiers
 
-* `subject` - The ID of the test subject
-* `activity` - The type of activity performed when the corresponding measurements were taken
+* `subject` - ID of the test subject
+* `activity` - Type of activity performed when the corresponding measurements were taken
 
 ## Measurements
 
